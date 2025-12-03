@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+*.log
+.env
+.constant
+.DS_Store
+install/install.lock
+app/controller/api/Test.php
+cert_crmeb.key

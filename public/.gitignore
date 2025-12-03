@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!font/**
+!install/**
+!static/**
+!statics/**
+!favicon.ico
+!index.php
+!robots.txt
+!router.php
+!.htaccess
